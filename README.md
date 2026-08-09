@@ -10,14 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=BiaanVanSittert&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<!-- GitHub Trophies for gamified flair -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BiaanVanSittert&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Biaan's Trophies" />
-  </a>
-</p>
 
----
 
 ### 👨‍💻 About Me & 🛠️ Tech Stack
 
