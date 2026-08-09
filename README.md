@@ -34,17 +34,27 @@
 
 <p align="center">
   <!-- GitHub Readme Stats: Shows total stars, commits, PRs, and issues -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BiaanVanSittert&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Biaan's GitHub Stats" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=BiaanVanSittert&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Biaan's GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Top Languages Card: Dynamically calculates your most used languages based on your public repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaanVanSittert&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Biaan's Top Languages" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=BiaanVanSittert&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Biaan's Top Languages" />
 </p>
 
 <p align="center">
   <!-- Streak Stats: Shows your longest and current contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiaanVanSittert&theme=github_dark&hide_border=true&background=0D1117" alt="Biaan's GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Highlighted Projects
+
+<p align="center">
+  <a href="https://github.com/BiaanVanSittert/ThePrepLab">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=BiaanVanSittert&repo=ThePrepLab&theme=github_dark&bg_color=0D1117&hide_border=true" alt="ThePrepLab Repo" />
+  </a>
 </p>
 
 ---
