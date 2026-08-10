@@ -36,7 +36,7 @@
 
 Check out my deployed web projects:
 
-- 🖼️ **[Image to Text Converter](https://biaanvansittert.github.io/ImageToText/)** - *Extract text from images directly in your browser.*
+- 🖼️ **[OCR Image PDF To Text Extractor](https://biaanvansittert.github.io/OCR-Image-PDF-To-Text-Extractor/)** - *Extract text from images directly in your browser.*
 - 🧪 **[ThePrepLab](https://biaanvansittert.github.io/ThePrepLab/)** - *An application download webpage for a study tool to create flashcards and mock exams.*
 
 ---
