@@ -29,6 +29,15 @@
 
 ---
 
+### 🌐 Live Web Projects
+
+Check out my deployed web projects:
+
+- 🖼️ **[Image to Text Converter](https://biaanvansittert.github.io/ImageToText/)**
+- 🧪 **[ThePrepLab](https://biaanvansittert.github.io/ThePrepLab/)**
+
+---
+
 ### 📊 GitHub Analytics & Projects
 
 <!-- Side-by-side layout by placing images directly next to each other in a centered paragraph -->
