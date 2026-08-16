@@ -100,13 +100,6 @@ Cloud Engineer and Team Lead with deep focus on scalable infrastructure, systems
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BiaanVanSittert&theme=default&hide_border=false&border=D0D7DE&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiaanVanSittert&theme=github_dark&hide_border=false&border=21262D&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="185" />
   </picture>
-  <a href="https://github.com/BiaanVanSittert/ThePrepLab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/pin/?username=BiaanVanSittert&repo=ThePrepLab&theme=github_dark&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/pin/?username=BiaanVanSittert&repo=ThePrepLab&theme=default&bg_color=FFFFFF&border_color=D0D7DE&title_color=0969DA&text_color=24292F&icon_color=0969DA&hide_border=false">
-      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=BiaanVanSittert&repo=ThePrepLab&theme=github_dark&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false" alt="ThePrepLab Repo" height="185" />
-    </picture>
-  </a>
 </p>
 
 ---
