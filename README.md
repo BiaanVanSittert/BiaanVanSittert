@@ -16,7 +16,7 @@
 
 ### Technical Focus
 
-Cloud Engineer and Team Lead with deep focus on scalable infrastructure, systems security, and high-performance client-side architectures. Dedicated to building reliable, security-hardened systems, automated reconnaissance tooling, and zero-server local-first applications.
+Cloud Engineer and Team Lead with deep focus on SecOps Infrastructure, systems security, and high-performance client-side architectures. Dedicated to building reliable, security-hardened systems, automated reconnaissance tooling, and zero-server local-first applications.
 
 - **Infrastructure & Leadership**: Production cloud environments, container orchestration, Linux systems engineering, and team operations.
 - **Cybersecurity & Systems**: Network protocol analysis, DNS intelligence automation, vulnerability scanning, and secure software development.
